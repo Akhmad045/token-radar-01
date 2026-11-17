@@ -1,12 +1,16 @@
 # Token Radar — pre-token protocols ranked by implied value
 
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/c/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Akhmad045/token-radar-01/rank.svg)](https://make.fun/c/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Akhmad045/token-radar-01/reward.svg)](https://make.fun/c/token-radar-01)
+
 ![model](https://img.shields.io/badge/model-radar--2-2dd4bf)
 ![board](https://img.shields.io/badge/board-200%20rows-2dd4bf)
 ![watchlist](https://img.shields.io/badge/watchlist-40%2F40%20covered-f5b942)
 ![node](https://img.shields.io/badge/node-22%20stdlib%20only-339933)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
-A token launch radar for the make.fun `token-radar-01` bounty. It reads a sealed,
+A token launch radar for the make.fun [`token-radar-01`](https://make.fun/bounty/token-radar-01) bounty. It reads a sealed,
 frozen DefiLlama snapshot (758 protocols, 2026-11-14), finds the protocols that
 record no token, and ranks 200 of them by an **implied value** the program
 computes itself — then hands in a static dashboard with the board, a detail view
